@@ -6,11 +6,9 @@ date:       2016-12-4 18:46:00
 author:     "YL"
 header-img: "img/home-bg-o.jpg"
 tags:
-​	-blog
-​	-frist
-
-​	-blog
-
+	-blog
+	-frist
+	-github
 ---
 
 > 这是尝试使用模板的第一篇博客
