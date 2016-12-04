@@ -1,4 +1,3 @@
-```markdown
 ---
 layout:     post
 title:      "余雨来第一篇博客"
@@ -7,11 +6,12 @@ date:       2016-12-4 18:46:00
 author:     "YL"
 header-img: "img/home-bg-o.jpg"
 tags:
-	-blog
-	-frist
-	-github
+​	-blog
+​	-frist
+
+​	-blog
+
 ---
-```
 
 > 这是尝试使用模板的第一篇博客
 
