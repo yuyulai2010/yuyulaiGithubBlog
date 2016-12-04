@@ -1,4 +1,5 @@
 ```markdown
+---
 layout:     post
 title:      "余雨来第一篇博客"
 subtitle:   "The first blog of yuyulai."
@@ -9,6 +10,7 @@ tags:
 	-blog
 	-frist
 	-github
+---
 ```
 
 > 这是尝试使用模板的第一篇博客
