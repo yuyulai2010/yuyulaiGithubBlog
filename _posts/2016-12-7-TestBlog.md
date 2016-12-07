@@ -17,3 +17,20 @@ tags:
 <br>也测试下添加br的效果如何
 
 <b>测试b节点效果</b>
+
+*以下测试直接用md格式输入的文本在网页上的效果*
+
+**这是粗体**
+
+***这是粗斜体***
+
+## 二级标题：以下为代码框测试
+
+```python
+import os
+def test():
+    print "My wife is WangQi!"
+    print "My tags : 王淇的男朋友！"
+```
+
+> 这里是灰化的备注。
