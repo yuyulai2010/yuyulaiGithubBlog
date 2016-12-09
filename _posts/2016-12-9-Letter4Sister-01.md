@@ -13,3 +13,6 @@ tags:
 
 > png图片上传测试。
 
+图片插入测试
+
+![post-bg-letter4sister](/Users/yuyulai/GitHub/yuyulaiGithubBlog/img/post-bg-letter4sister.png)
