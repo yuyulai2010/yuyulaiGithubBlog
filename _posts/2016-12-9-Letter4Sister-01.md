@@ -4,7 +4,7 @@ title:      "专注与自由"
 subtitle:   "How to stay focused!"
 date:       2016-12-09 20:00:00
 author:     "yuyulai"
-header-img: "img/post-bg-letter4sister.png"
+header-img: "img/post-bg-unix-linux.jpg"
 tags:
     - 信
     - Sister
@@ -12,3 +12,4 @@ tags:
 ---
 
 > png图片上传测试。
+
