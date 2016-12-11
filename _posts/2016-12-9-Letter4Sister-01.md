@@ -13,12 +13,12 @@ tags:
 
 > 这封信写给你，也写给我自己。对我而言是一篇学习笔记，是我对自己说的话；对你可以说是劝诫，但我更希望是分享。我了解这些方法是为了持续的提升工作效率，初有成效，同时我认为这些方法也同样可以适用于你现在的学习中，希望你能从此文中有所收获。
 
-![img](/img/in-post/post-c-u-ali-team.png)
+![img](/yuyulaiGithubBlog/img/in-post/post-c-u-ali-team.png)
 
 ​	**专注才能提升效率，效率才能获得自由**。
 
 ​	首先解释我们这里的自由是什么。我的自由是能在有限工作时间内又好又快的完成工作，留下更过的自由时间，可以在家休息，玩玩电脑，或者坐下来给你分享一下过来人的心得。而你的自由是指能够获得更多的时间自主学习。这几次和你聊天，结合你目前的成绩，可以认为你的自主学习时间明显是不够的。老师的新课必须要往前走，以往的内容又没有掌握牢固，甚至上次考试的错题都还没有时间分析。想要做好这些，必然需要提升效率，在有限的时间完成更多的学习计划。效率提升有很多小技巧，具体到每个学科，效率提升各有方法，但是我认为最为根本的方法是保持专注，只有在学习中保持专注才能有效提升学习效率。
 
-![img](/img/in-post/post-alitrip-pd/post-alitrip-pd.013.jpg)
+![img](/yuyulaiGithubBlog/img/in-post/post-alitrip-pd/post-alitrip-pd.013.jpg)
 
-![img](/img/in-post/forcify.jpg)
+![img](/yuyulaiGithubBlog/img/in-post/forcify.jpg)
